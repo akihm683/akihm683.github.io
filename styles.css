@@ -1,15 +1,10 @@
+
+
+
 body {
-    background-color: blue;
-    color: red;
-    font-size: 20px;
-    font-family: Helvetica, Arial, sans-serif;
-    text-align: right;
+    background-image: url("gradient_bg.png");
 }
 
-p{
-    margin: 50px;
-}
+p1 {color:blue;}
+p2 {color:red;}
 
-.paragraph2 {
-    color: #35ff3f;
-}
