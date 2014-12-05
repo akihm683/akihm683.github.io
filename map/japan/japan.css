@@ -1,6 +1,6 @@
 
 body {
-  background: url("Japan.jpg") no-repeat center center fixed;
+  background: url("japan.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -10,7 +10,7 @@ body {
 
 .north {
   position: fixed;
-  right: 450px;
+  right: 50%;
   top: 20px;
   width: 60px;
   height: 25px;
