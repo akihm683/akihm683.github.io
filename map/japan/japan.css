@@ -8,18 +8,24 @@ body {
 }
 
 .figure { 
-    position:absolute;
+    position:fixed;
     right:50%;
-    left:50%;
     top:50%;
-    bottom:50%;
-    
+    width:104px;
+    height:164px;
+    margin-top:-82px;
+    margin-right:-52px;
+}
+
+a {
+ color:white; 
 }
 
 
 .north {
   position: fixed;
   right: 50%;
+  margin-right:-30px;
   top: 20px;
   width: 60px;
   height: 25px;
@@ -30,6 +36,7 @@ body {
 .south {
   position: fixed;
   right: 50%;
+  margin-right:-30px;
   bottom: 20px;
   width: 60px;
   height: 25px;
