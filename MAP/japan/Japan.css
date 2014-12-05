@@ -1,0 +1,47 @@
+
+body {
+  background: url("Japan.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+.north {
+  position: fixed;
+  right: 450px;
+  top: 20px;
+  width: 60px;
+  height: 25px;
+  background-color: red;
+}
+
+
+.south {
+  position: fixed;
+  right: 450px;
+  bottom: 20px;
+  width: 60px;
+  height: 25px;
+  background-color: red;
+}
+
+
+.east {
+	position: fixed;
+	right: 20px;
+	top: 250px;
+	width: 44px;
+	height: 25px;
+	background-color: red;
+}
+
+.west {
+  position: fixed;
+  left: 20px;
+  top: 250px;
+  width: 44px;
+  height: 25px;
+  background-color: red;
+}

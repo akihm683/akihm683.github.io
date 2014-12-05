@@ -2,9 +2,12 @@
 
 
 body {
-    background-color: blue;
+    background-repeat: ;gound-image: url("gradient_bg.png");
     font-size: 20px;
 	
 
 }
+
+p1 {color:blue;}
+p2 {color:red;}
 
