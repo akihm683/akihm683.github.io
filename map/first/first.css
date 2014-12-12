@@ -1,0 +1,18 @@
+
+body {
+  background: url("first.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+a { 
+    position:fixed;
+    right:50%;
+    top:50%;
+    width:104px;
+    height:164px;
+    margin-top:-50px;
+    margin-right:-52px;
+}
