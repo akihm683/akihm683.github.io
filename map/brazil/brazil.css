@@ -1,0 +1,23 @@
+
+body {
+  background: url("brazil.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+a { 
+    position:fixed;
+    font-size:xx-large;
+    right:50%;
+    top:50%;
+    width:50px;
+    height:164px;
+    margin-top:-82px;
+    margin-right:-52px;
+}
+
+a {
+ color:white; 
+}
