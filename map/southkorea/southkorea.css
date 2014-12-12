@@ -7,41 +7,53 @@ body {
   background-size: cover;
 }
 
+.figure { 
+    position:fixed;
+    right:50%;
+    top:50%;
+    width:104px;
+    height:164px;
+    margin-top:-82px;
+    margin-right:-52px;
+}
+
+a {
+ color:white; 
+}
+
 
 .north {
   position: fixed;
-  right: 450px;
+  right: 50%;
+  margin-right:-30px;
   top: 20px;
   width: 60px;
   height: 25px;
-  background-color: red;
 }
 
 
 .south {
   position: fixed;
-  right: 450px;
+  right: 50%;
+  margin-right:-30px;
   bottom: 20px;
   width: 60px;
   height: 25px;
-  background-color: red;
 }
 
 
 .east {
 	position: fixed;
 	right: 20px;
-	top: 250px;
+	top: 50%;
 	width: 44px;
 	height: 25px;
-	background-color: red;
 }
 
 .west {
   position: fixed;
   left: 20px;
-  top: 250px;
+  top: 50%;
   width: 44px;
   height: 25px;
-  background-color: red;
 }
