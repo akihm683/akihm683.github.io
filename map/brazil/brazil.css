@@ -21,3 +21,14 @@ a {
 a {
  color:white; 
 }
+
+
+
+.north {
+  position: fixed;
+  right: 50%;
+  margin-right:-30px;
+  top: 20px;
+  width: 60px;
+  height: 25px;
+}
